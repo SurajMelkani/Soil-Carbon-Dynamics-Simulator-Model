@@ -54,8 +54,3 @@ Each panel includes its own legend because pool names differ by model.
 
 > Note: In this implementation, the simulation time step is annual for all models.  
 > Monthly climate is summarized into a scalar climate modifier for the RothC Carbon Model.
-
-
-### 1) Install R packages
-```r
-install.packages(c("shiny","ggplot2","plotly","dplyr","tidyr","SoilR"))
