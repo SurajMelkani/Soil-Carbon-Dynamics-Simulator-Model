@@ -1,12 +1,10 @@
 # Soil Carbon Dynamics Simulator Model
 
-**An interactive platform to compare multiple soil organic carbon model structures**  
-
-This tool simulates soil organic carbon trajectories and final pool composition across **9 models** under a consistent starting soil organic carbon stock and carbon input scenario.
+An interactive platform to compare multiple soil organic carbon model structures. This platform can simulate soil organic carbon trajectories and final pool composition across **9 models** under a consistent starting soil organic carbon stock and carbon input scenario.
 
 ## 🔗 Launch the App
 **Live app:** (add your link here once deployed)  
-`https://YOUR-APP-LINK`
+`[https://YOUR-APP-LINK](https://ljdrky-suraj-melkani.shinyapps.io/Soil_C_Simulation/)`
 
 ---
 
@@ -30,18 +28,18 @@ This tool simulates soil organic carbon trajectories and final pool composition 
 
 ---
 
-## 📌 What the App Produces
+## What the latform Simulates
 
 ### 1) Total soil organic carbon projections (time series)
 A line plot comparing simulated total soil organic carbon (tonnes of carbon per hectare) through time.
 
-### 2) Final pool composition (9 panels)
+### 2) Final pool composition
 A separate stacked bar chart for each model showing the **final pool sizes** at the end of the simulation.  
 Each panel includes its own legend because pool names differ by model.
 
 ---
 
-## 🧪 Inputs Required
+## Inputs Required
 
 ### Monthly climatology (averages)
 - Monthly temperature (degrees Celsius)
@@ -56,27 +54,8 @@ Each panel includes its own legend because pool names differ by model.
 - Simulation duration (years)
 
 > Note: In this implementation, the simulation time step is annual for all models.  
-> Monthly climate is summarized into a scalar climate modifier for the Rothamsted Carbon Model.
+> Monthly climate is summarized into a scalar climate modifier for the RothC Carbon Model.
 
----
-
-## How to Interpret Pools (brief)
-
-### Conceptual two-pool and three-pool models
-These are generic compartment models. Pools represent conceptual fast / intermediate / stable fractions unless calibrated to measured fraction data.
-
-### Rothamsted Carbon Model (five pools)
-Pools represent easily decomposed plant material, resistant plant material, microbial biomass, humified organic matter, and inert organic matter.
-
-### Century Model (seven pools)
-Includes surface and soil litter pools plus fast, intermediate, and very stable soil organic carbon pools.
-
-### Introductory Carbon Balance Model (two pools)
-Divides soil organic carbon into young (active) and old (stabilized) pools.
-
----
-
-## 🚀 Run Locally
 
 ### 1) Install R packages
 ```r
