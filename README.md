@@ -21,9 +21,9 @@ An interactive platform to compare multiple soil organic carbon model structures
 - Feedback
 
 ### Process-based models
-- **Rothamsted Carbon Model (RothC)**
+- Rothamsted Carbon Model (RothC)
 - Century Model
-- **Introductory Carbon Balance Model (ICBM)**
+- Introductory Carbon Balance Model (ICBM)
 
 ---
 
