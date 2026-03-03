@@ -27,7 +27,7 @@ An interactive platform to compare multiple soil organic carbon model structures
 
 ---
 
-## What the latform Simulates
+## Simulated Parameters
 
 ### 1) Total soil organic carbon projections (time series)
 A line plot comparing simulated total soil organic carbon (tonnes of carbon per hectare) through time.
