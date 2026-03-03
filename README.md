@@ -1,4 +1,4 @@
-# 🌱 Soil Carbon Dynamics Simulator Model
+# Soil Carbon Dynamics Simulator Model
 
 **An interactive platform to compare multiple soil organic carbon model structures**  
 
@@ -10,7 +10,7 @@ This tool simulates soil organic carbon trajectories and final pool composition 
 
 ---
 
-## ✅ Models Included (9)
+## Models Included
 
 ### Conceptual compartment architectures
 **Two-pool models**
@@ -23,7 +23,7 @@ This tool simulates soil organic carbon trajectories and final pool composition 
 - Parallel
 - Feedback
 
-### Process-based / named-pool models
+### Process-based models
 - **Rothamsted Carbon Model (RothC)**
 - **Century Model **
 - **Introductory Carbon Balance Model (ICBM)**
