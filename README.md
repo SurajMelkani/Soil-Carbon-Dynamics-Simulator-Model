@@ -52,5 +52,7 @@ Each panel includes its own legend because pool names differ by model.
 - Initial total soil organic carbon (tonnes of carbon per hectare)
 - Simulation duration (years)
 
+This repository contains the public model platform. Research-grade calibrated versions and extended modeling scripts are not included. Source code available upon request for research collaboration.
+
 > Note: In this implementation, the simulation time step is annual for all models.  
 > Monthly climate is summarized into a scalar climate modifier for the RothC Carbon Model.
