@@ -7,4 +7,8 @@ library(dplyr)
 library(tidyr)
 library(SoilR)
 
-#Source code available upon request for research collaboration.
+tags$hr(),
+tags$small(
+  "Source code available upon request for research collaboration."
+)
+
