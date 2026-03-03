@@ -2,7 +2,7 @@
 
 An interactive platform to compare multiple soil organic carbon model structures. This platform can simulate soil organic carbon trajectories and final pool composition across **9 models** under a consistent starting soil organic carbon stock and carbon input scenario.
 
-## 🔗 Launch the App
+## Launch the App
 **Live app:** (add your link here once deployed)  
 `[https://YOUR-APP-LINK](https://ljdrky-suraj-melkani.shinyapps.io/Soil_C_Simulation/)`
 
